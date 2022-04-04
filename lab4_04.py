@@ -24,4 +24,4 @@ def stair_down(x, s):
     t.left(90)
 
 position_turtle(-100, 100)
-stair_down(50, 1)
+stair_down(50, 2)
